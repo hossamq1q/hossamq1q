@@ -16,5 +16,7 @@
 ---
 
 ### 🔗 Find Me On
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/hossamq1q/)
+<a href="https://leetcode.com/hossamq1q/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" />
+</a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hossamq1q)
