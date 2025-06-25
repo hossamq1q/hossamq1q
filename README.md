@@ -1,21 +1,28 @@
 # Hi, I'm Hossam 👋
 
-💡 Passionate about computer software | Aspiring Software Engineer
+💡 Passionate Software Developer | Problem Solver | Continuous Learner
 
-## Skills
-- **Programming Languages**: Python, Java, C++, javascript, typescript
-- **Technologies**: Web Development, Machine Learning
+### 🛠️ Tech Stack
 
-## Interests
-- Competitive programming
-- Open-source development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hossamq1q&show_icons=true&theme=radical)
+
+### 🔗 Find Me On
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hossamq1q/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-5131ba31a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossamq1q)
+
+### 🏆 LeetCode Badges
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hossamq1q?theme=dark&font=Karma)
 
 ---
 
-### 🔗 Find Me On
-<a href="https://leetcode.com/hossamq1q/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" style="background:white;padding:2px;border-radius:4px"/>
-</a>  
-<a href="https://www.linkedin.com/in/hossam-ahmed-5131ba31a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-</a>
+⭐ From [Hossam](https://github.com/hossamq1q)
