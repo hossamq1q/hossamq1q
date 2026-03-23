@@ -17,6 +17,8 @@ I am a passionate Software Developer and a dedicated problem solver with a conti
 ## 🔗 Find Me On
 
 <p align="left">
-  <a href="https://leetcode.com/u/hossamq1q/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40" /></a> &nbsp;
+  <a href="https://leetcode.com/u/hossamq1q/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+</a>
   <a href="https://www.linkedin.com/in/hossam-ahmed-5131ba31a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 </p>
