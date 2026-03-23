@@ -1,4 +1,6 @@
-![Header GIF](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I5M2I5M2I5M2I5M2I5M2I5M2I5M2I5M2I5M2I5M2I5M2I5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxfG9S5W4o/giphy.gif" width="100%" />
+</p>
 
 # Hi, I'm Hossam 👋
 
