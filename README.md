@@ -9,17 +9,14 @@ I am a passionate Software Developer and a dedicated problem solver with a conti
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,django,flask,fastapi,pytorch,tensorflow,scikitlearn,docker,kubernetes,aws,azure,gcp,kafka,rabbitmq,nginx,postgresql,mysql,mongodb,redis,git,github,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,fastapi,pytorch,tensorflow,scikitlearn,docker,kafka,rabbitmq,postgresql,mysql,mongodb,redis,git,github,linux,vim" />
 </p>
 
-## 📈 GitHub Stats
-
-![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamq1q&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamq1q&layout=compact&theme=dark&hide_border=true)
 
 ## 🔗 Find Me On
 
 <p align="left">
-  <a href="https://leetcode.com/hossamq1q/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40" /></a> &nbsp;
+  <a href="https://leetcode.com/u/hossamq1q/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/hossam-ahmed-5131ba31a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 </p>
